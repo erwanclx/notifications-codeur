@@ -1,0 +1,10 @@
+# ---------------- Cookies Codeur ----------------
+# Rendez-vous sur https://www.codeur.com/, puis ouvrez l'inspecteur de votre navigateur (F12)
+# Allez dans l'onglet Application, puis dans Cookies
+# Copiez-collez le contenu des cookies dans le dict cookies ci-dessous
+
+cookies = {
+    '__codeur_session_production': '',
+    '_ga': '',
+    # Ajoutez tous les cookies ici avec le même format
+}
