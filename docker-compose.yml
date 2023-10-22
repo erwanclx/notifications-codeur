@@ -1,0 +1,10 @@
+version: '3.3'
+
+services:
+  python:
+    build:
+        context: .
+        dockerfile: Dockerfile
+    container_name: notifications-codeur
+    volumes:
+      - .:/app
