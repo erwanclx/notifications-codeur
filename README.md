@@ -19,7 +19,10 @@ Pour en savoir plus sur [IFTTT](https://ifttt.com/) | [Webhooks IFTTT](https://i
 - Remplir les variables dans le fichier ``cookies.py``
 
 ## Utilisation
-``python main.py``
+- Cloner le projet avec ``git clone https://github.com/erwanclx/notifications-codeur.git``
+- Se placer dans le dossier du projet avec ``cd notifications-codeur``
+- Installer les dépendances avec ``pip install -r requirements.txt``
+- Lancer le script avec ``python main.py``
 
 ## Auteur
 - Erwan Cloux
