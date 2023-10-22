@@ -21,6 +21,9 @@ Pour en savoir plus sur [IFTTT](https://ifttt.com/) | [Webhooks IFTTT](https://i
 ## Utilisation
 - Cloner le projet avec ``git clone https://github.com/erwanclx/notifications-codeur.git``
 - Se placer dans le dossier du projet avec ``cd notifications-codeur``
+### Lancement avec Docker
+- Lancer le script avec ``docker-compose up -d``
+### Manuellement
 - Installer les dépendances avec ``pip install -r requirements.txt``
 - Lancer le script avec ``python main.py``
 
